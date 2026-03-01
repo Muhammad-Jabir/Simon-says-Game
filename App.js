@@ -95,4 +95,7 @@ function reset(){
     return max;
 }
 
+
 //Nothing is not more important than learning so plz learn bro...
+//Nothing is not more important  than learning so plz learn bro...
+
