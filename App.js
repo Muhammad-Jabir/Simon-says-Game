@@ -95,3 +95,4 @@ function reset(){
     return max;
 }
 
+//Nothing is not more important is than learning so plz learn bro...
