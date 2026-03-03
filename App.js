@@ -2,7 +2,7 @@ let gameSeq = [];
 let userSeq = [];
 let arr = [];
 
-let btns = ['red', 'yellow', 'green', 'purple'];
+let btns = ['green', 'yellow', 'red', 'blue'];
 
 let started = false;
 let level = 0;
@@ -85,7 +85,7 @@ function reset(){
     
 }
    
-    function greatherthan(){
+function greatherthan(){
     let max = arr[0];
     for(let ar of arr){
         if(ar > max){

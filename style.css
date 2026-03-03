@@ -1,5 +1,6 @@
 body{
     text-align: center;
+    font-family: "Martel Sans", sans-serif;
 }
 
 .btn{
@@ -15,20 +16,20 @@ body{
     justify-content: center;
 }
 
-.red{
-    background-color: #F93827;
+.green{
+    background-color: #64dd16;
 }
 
 .yellow{
-    background-color: #FF9D23;
+    background-color: #ffe74a;
 }
 
-.green{
-    background-color: #16C47F;
+.red{
+    background-color: #f11414;
 }
 
-.purple{
-    background-color: #FF52A0;
+.blue{
+    background-color: #368ccc;
 }
 
 .flash{
