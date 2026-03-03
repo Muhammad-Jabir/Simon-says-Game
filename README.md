@@ -2,7 +2,7 @@
 
 A classic **Simon Says** memory game built with HTML, CSS, and JavaScript. Test your memory by repeating increasingly long sequences of colored buttons!
 
-# 🕹️ How to Play
+## 🕹️ How to Play
 
 1. **Press any key** to start the game
 2. Watch carefully as the game **flashes a color sequence**
@@ -10,7 +10,7 @@ A classic **Simon Says** memory game built with HTML, CSS, and JavaScript. Test 
 4. Each round, the sequence gets **one step longer**
 5. One wrong move and it's **game over** — try to beat your high score!
 
-# ✨ Features
+## ✨ Features
 
 - ✅ Classic Simon Says gameplay
 - ✅ Visual button flash animations
@@ -18,7 +18,7 @@ A classic **Simon Says** memory game built with HTML, CSS, and JavaScript. Test 
 - ✅ Game over screen with restart prompt
 - ✅ Increasing difficulty with each round
 
-# 🛠️ Built With
+## 🛠️ Built With
 
 - **HTML5** — Game structure
 - **CSS3** — Styling and animations
